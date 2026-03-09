@@ -1,3 +1,5 @@
+
+
 # Python
 __pycache__/
 *.pyc
@@ -9,3 +11,6 @@ venv/
 
 # Database
 *.db
+
+# Variables de entorno
+.env
